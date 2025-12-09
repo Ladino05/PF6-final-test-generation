@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import requests
 
 def dish_fetch(num):
@@ -51,10 +50,8 @@ def main():
 if __name__ == "__main__":
     main()
 
-=======
 def main():
   print("Hello learners!")
 
 if __name__=="__main__":
   main()
->>>>>>> d38c9e40cbc7cbda62308b4dc364e81125859228
